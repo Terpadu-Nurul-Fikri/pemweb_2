@@ -7,8 +7,8 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
     <style>
         body {
-            background-color: #f8f9fa; /* Warna latar belakang */
-            height: 100vh; /* Agar full layar */
+            background-color: #f8f9fa;
+            height: 100vh;
         }
     </style>
 </head>
