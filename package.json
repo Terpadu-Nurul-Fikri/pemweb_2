@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "@tailwindcss/cli": "^4.0.9",
+    "tailwindcss": "^4.0.9"
+  },
+  "name": "pemweb_2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "tw": "npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Terpadu-Nurul-Fikri/pemweb_2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Terpadu-Nurul-Fikri/pemweb_2/issues"
+  },
+  "homepage": "https://github.com/Terpadu-Nurul-Fikri/pemweb_2#readme"
+}
