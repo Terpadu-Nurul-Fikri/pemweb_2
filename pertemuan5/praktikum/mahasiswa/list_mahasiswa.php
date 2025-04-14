@@ -82,7 +82,7 @@ $query = $dbh->query($sql);
         </div>
         
         <div class="text-center">
-            <a href="form_prodi.php" class="inline-block bg-blue-600 hover:bg-blue-700 text-white font-medium py-2 px-4 rounded-md transition duration-300">
+            <a href="../prodi/form_prodi.php" class="inline-block bg-blue-600 hover:bg-blue-700 text-white font-medium py-2 px-4 rounded-md transition duration-300">
                 <i class="fas fa-university mr-2"></i> Kelola Program Studi
             </a>
         </div>
