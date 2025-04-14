@@ -1,7 +1,3 @@
 # pemweb 2
 
-# Pertemuan_1
-
-# Pertemuan_2
-
-# Pertemuan_3
+Tugas Matakuliah Pemrograman Web 2
