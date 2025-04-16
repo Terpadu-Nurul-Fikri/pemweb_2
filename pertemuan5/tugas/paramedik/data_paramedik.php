@@ -21,10 +21,10 @@ $rs = $dbh->query($sql);
             <h2 class="text-2xl font-bold">Data Paramedik</h2>
             <div class="flex flex-wrap gap-2">
                 <a href="../index.php" class="bg-gray-300 text-gray-800 px-4 py-2 rounded hover:bg-gray-400 transition">
-                    🏠 Dashboard
+                     Dashboard
                 </a>
                 <a href="form_paramedik.php" class="bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600 transition">
-                    + Tambah Paramedik
+                     Tambah Paramedik
                 </a>
             </div>
         </div>
